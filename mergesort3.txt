@@ -1,0 +1,10 @@
+Size: 5000 | Avg Time: 17800230.0 ns
+Size: 10000 | Avg Time: 48094640.0 ns
+Size: 15000 | Avg Time: 46181550.0 ns
+Size: 20000 | Avg Time: 60965030.0 ns
+Size: 25000 | Avg Time: 77213910.0 ns
+Size: 30000 | Avg Time: 92682530.0 ns
+Size: 35000 | Avg Time: 140107930.0 ns
+Size: 40000 | Avg Time: 169631620.0 ns
+Size: 45000 | Avg Time: 166134300.0 ns
+Size: 50000 | Avg Time: 193293000.0 ns
